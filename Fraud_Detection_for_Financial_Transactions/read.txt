@@ -1,0 +1,1 @@
+Fraud_Detection_for_Financial_Transactions: Develop an AI model to detect fraudulent transactions in financial data, helping to prevent financial losses for businesses.
