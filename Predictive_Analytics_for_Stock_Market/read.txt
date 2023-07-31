@@ -1,1 +1,2 @@
 Predictive_Analytics_for_Stock_Market
+Predictive_Analytics_for_Stock_Market: Develop a machine learning model to predict stock prices based on historical data and market indicators.
