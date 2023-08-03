@@ -1,0 +1,1 @@
+iv. Human Readable Offers, calls for a bolt 12 offer generator to be integrated into a mobile wallet. Ideally, a bolt 12 offer could be communicated from a phone screen to a human without the use of copy and paste or a QR code scan, similar to how a Bitcoin or Lightning address is displayed.
